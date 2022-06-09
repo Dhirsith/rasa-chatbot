@@ -1432,3 +1432,7 @@ video:focus {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+nav {
+  background-color: initial;
+}
