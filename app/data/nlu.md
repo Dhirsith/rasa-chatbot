@@ -11,7 +11,6 @@
 - goodbye
 - see you around
 - see you later
-
 ## intent:affirm
 - yes
 - indeed
@@ -54,3 +53,15 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:placement
+- placement
+- job
+- carrier
+- opportunities
+
+## intent:college
+- about
+- details about college
+- college
+- details 

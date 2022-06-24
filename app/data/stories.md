@@ -29,3 +29,11 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## placement
+* placement
+ - utter_placement
+
+## college
+* college
+  - utter_college 

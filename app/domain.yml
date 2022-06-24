@@ -6,6 +6,8 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - placement
+  - college
 
 responses:
   utter_greet:
@@ -26,6 +28,14 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_placement:
+  - text: "microsoft , accenture , wipro etc"
+
+  utter_college:
+  - text: "
+Jain University originates from Sri Bhagawan Mahaveer Jain College (SBMJC), established by the founder and chairman of JGI GROUP, Dr.Chenraj Roychand[2] in 1990.[3] It was conferred deemed to be university status in 2009
+"
 
 session_config:
   session_expiration_time: 60
